@@ -2,16 +2,21 @@
 #include "magicNumber.c"
 
 void max(int num1, int num2);
-char look_up(char character);
+char look_up(char c);
+char look_up2(char c);
 void count1();
 void count2();
 void count3();
+void hello(int count);
+void magic_number();
 
 int main() {
     printf("02, Exersises!\n");
+
     int exersises;
     printf("Enter a exercises number:");
     scanf("%d",&exersises);
+
     if(exersises == 1){
         int num1;
         int num2;
@@ -23,15 +28,27 @@ int main() {
         max(num1,num2);
     }
     else if (exersises == 2){
-        char num3;
+        char num;
         printf("Enter a number:");
-        scanf("%d",&num3);
-        printf("%d",look_up(num3));
+        scanf("%d",&num);
+        printf("%d",look_up(num));
     }
     else if(exersises == 3){
+        char num;
+        printf("Enter a number:");
+        scanf("%d",&num);
+        printf("%d", look_up2(num));
+    }
+    else if(exersises == 4){
         count1();
         count2();
         count3();
+    }
+    else if(exersises == 5){
+        hello(10);
+    }
+    else if(exersises == 6){
+        magic_number();
     }
     else {
         return 0;
@@ -111,11 +128,11 @@ void count3(){
  * and outputs if the number is negative.
  * */
 
-void hello(int num){
-    if(0<num){
+void hello(int count){
+    if(count<0){
         return;
     } else {
-        for (int i = 0; i < num; ++i) {
+        for (int i = 0; i < count; ++i) {
             printf("hello");
         }
     }
@@ -123,4 +140,29 @@ void hello(int num){
 
 /* 2.6 Magic Number program
  * */
+
+void magic_number(){
+    char option;
+    int magic;
+    do{
+        printf("1. Define a new magic number.\n");
+        printf("2. Play\n");
+        printf("3. Quit\n");
+        do {
+            printf("Enter your selection:");
+            option=getchar();
+        } while (option<'1' || option>'3');
+        switch (option) {
+            case '1':
+                magic=next_magic();
+                break;
+            case '2':
+                play(magic);
+            case '3':
+                printf("Goofbye\n");
+                break;
+        }
+    } while (option!='3');
+}
+
 
