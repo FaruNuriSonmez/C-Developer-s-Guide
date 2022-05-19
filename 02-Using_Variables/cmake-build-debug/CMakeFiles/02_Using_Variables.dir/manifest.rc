@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/Github/C-Developer-s-Guide/02-Using_Variables/cmake-build-debug/CMakeFiles/02_Using_Variables.dir/embed.manifest"

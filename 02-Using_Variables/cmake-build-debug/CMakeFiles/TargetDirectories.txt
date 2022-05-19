@@ -1,0 +1,3 @@
+D:/Github/C-Developer-s-Guide/02-Using_Variables/cmake-build-debug/CMakeFiles/02_Using_Variables.dir
+D:/Github/C-Developer-s-Guide/02-Using_Variables/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Github/C-Developer-s-Guide/02-Using_Variables/cmake-build-debug/CMakeFiles/rebuild_cache.dir
