@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/Github/C-Developer-s-Guide/01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/01_A_Hello_World_Program.dir/embed.manifest"
