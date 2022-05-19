@@ -1,0 +1,3 @@
+D:/Github/C-Developer-s-Guide/03-Conditions/cmake-build-debug/CMakeFiles/03_Conditions.dir
+D:/Github/C-Developer-s-Guide/03-Conditions/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Github/C-Developer-s-Guide/03-Conditions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
