@@ -1,0 +1,3 @@
+E:/github/C-Developer-s-Guide/01-Exersises/cmake-build-debug/CMakeFiles/01_Exersises.dir
+E:/github/C-Developer-s-Guide/01-Exersises/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/github/C-Developer-s-Guide/01-Exersises/cmake-build-debug/CMakeFiles/rebuild_cache.dir

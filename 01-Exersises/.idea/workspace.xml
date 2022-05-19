@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="01_Exersises" targetName="01_Exersises" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24ce79fb-215c-4820-8bc4-83526914c72a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/C-Developer-s-Guide.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/01-Exersises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/.idea/01-A_Hello_World_Program.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/01_A_Hello_World_Program.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/01_A_Hello_World_Program.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/01_A_Hello_World_Program.ilk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/01_A_Hello_World_Program.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/01_A_Hello_World_Program.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/01_A_Hello_World_Program.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/01_A_Hello_World_Program.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/01_A_Hello_World_Program.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/01_A_Hello_World_Program.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/01_A_Hello_World_Program.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/01_A_Hello_World_Program.dir/embed.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/01_A_Hello_World_Program.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/01_A_Hello_World_Program.dir/intermediate.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/01_A_Hello_World_Program.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/01_A_Hello_World_Program.dir/manifest.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/01_A_Hello_World_Program.dir/manifest.res" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/01_A_Hello_World_Program.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/01_A_Hello_World_Program.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/01_A_Hello_World_Program.dir/vc140.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/3.20.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-A_Hello_World_Program/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/.idea/02-Using_Variables.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/02_Using_Variables.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/02_Using_Variables.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/02_Using_Variables.ilk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/02_Using_Variables.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/02_Using_Variables.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/02_Using_Variables.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/02_Using_Variables.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/02_Using_Variables.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/02_Using_Variables.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/02_Using_Variables.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/02_Using_Variables.dir/embed.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/02_Using_Variables.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/02_Using_Variables.dir/intermediate.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/02_Using_Variables.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/02_Using_Variables.dir/manifest.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/02_Using_Variables.dir/manifest.res" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/02_Using_Variables.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/02_Using_Variables.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/02_Using_Variables.dir/vc140.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/3.20.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Using_Variables/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/.idea/03-Conditions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/03_Conditions.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/03_Conditions.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/03_Conditions.ilk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/03_Conditions.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/03_Conditions.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/03_Conditions.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/03_Conditions.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/03_Conditions.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/03_Conditions.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/03_Conditions.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/03_Conditions.dir/embed.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/03_Conditions.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/03_Conditions.dir/intermediate.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/03_Conditions.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/03_Conditions.dir/manifest.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/03_Conditions.dir/manifest.res" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/03_Conditions.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/03_Conditions.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/03_Conditions.dir/vc140.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/3.20.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Conditions/main.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29IMf63xCECUtQXJ4oFAucfrSp7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "cmake.loaded.for.project": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="01_Exersises" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="01_Exersises" TARGET_NAME="01_Exersises" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="01_Exersises" RUN_TARGET_NAME="01_Exersises">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24ce79fb-215c-4820-8bc4-83526914c72a" name="Changes" comment="" />
+      <created>1652796246396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652796246396</updated>
+      <workItem from="1652796247993" duration="3700000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
