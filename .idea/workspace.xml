@@ -1,12 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="04_Loops" targetName="05_Arguments" />
+      <config projectName="04_Loops" targetName="04_Loops" />
+    </generated>
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e42d0e83-2144-43b8-a346-2e1545188af5" name="Changes" comment="" />
+    <list default="true" id="e42d0e83-2144-43b8-a346-2e1545188af5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/04_Loops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-Input_Output/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-Input_Output/.idea/06-Input_Output.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/C-Developer-s-Guide.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Loops/cmake-build-debug/.cmake/api/v1/reply/cache-v2-29dce794dbdc437e23c9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Loops/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-4c1177dc2aba295cdee4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Loops/cmake-build-debug/.cmake/api/v1/reply/index-2022-05-17T16-47-45-0944.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Loops/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-16046040cdfcb7416d83.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Loops/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/04-Loops/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Loops/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/04-Loops/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Loops/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/04-Loops/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Loops/cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/04-Loops/cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Loops/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/04-Loops/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Loops/cmake-build-debug/CMakeFiles/3.22.3/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/04-Loops/cmake-build-debug/CMakeFiles/3.22.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Loops/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/04-Loops/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Loops/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/04-Loops/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Loops/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/04-Loops/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Loops/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/04-Loops/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Loops/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/04-Loops/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Arguments/cmake-build-debug/.cmake/api/v1/reply/cache-v2-ff3f42fcc7684be3c58a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Arguments/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-ce93203296cf9632be06.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Arguments/cmake-build-debug/.cmake/api/v1/reply/index-2022-05-20T12-36-35-0160.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Arguments/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-16046040cdfcb7416d83.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Arguments/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/05-Arguments/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Arguments/cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/05-Arguments/cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Arguments/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/05-Arguments/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Arguments/cmake-build-debug/CMakeFiles/3.22.3/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/05-Arguments/cmake-build-debug/CMakeFiles/3.22.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Arguments/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/05-Arguments/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Arguments/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/05-Arguments/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Arguments/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Arguments/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/05-Arguments/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,29 +60,56 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="1.1" />
+  </component>
   <component name="ProjectId" id="29NlIsGFAlcBeUTunt6PU69JPjY" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/github/C-Developer-s-Guide/02-Exersises&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "E:/github/C-Developer-s-Guide/06-Input_Output"
   }
-}</component>
+}]]></component>
+  <component name="RunManager" selected="CMake Application.04_Loops">
+    <configuration name="04_Loops" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="04_Loops" TARGET_NAME="04_Loops" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="04_Loops" RUN_TARGET_NAME="04_Loops">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="05_Arguments" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_PATH="$PROJECT_DIR$/04-Loops/CMakeLists.txt" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.05_Arguments" />
+      <item itemvalue="CMake Application.04_Loops" />
+    </list>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,7 +119,10 @@
       <option name="presentableId" value="Default" />
       <updated>1652961349313</updated>
       <workItem from="1652961352486" duration="1326000" />
-      <workItem from="1653049971382" duration="1126000" />
+      <workItem from="1653049971382" duration="3196000" />
+      <workItem from="1659019226301" duration="685000" />
+      <workItem from="1659025154908" duration="1561000" />
+      <workItem from="1659033481759" duration="182000" />
     </task>
     <servers />
   </component>
@@ -64,5 +139,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

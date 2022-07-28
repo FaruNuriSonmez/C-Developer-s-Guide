@@ -2,7 +2,7 @@
 	"entries" : 
 	[
 		{
-			"name" : "05_Arguments_BINARY_DIR",
+			"name" : "06_Input_Output_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -11,10 +11,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/github/C-Developer-s-Guide/05-Arguments/cmake-build-debug"
+			"value" : "E:/github/C-Developer-s-Guide/06-Input_Output/cmake-build-debug"
 		},
 		{
-			"name" : "05_Arguments_IS_TOP_LEVEL",
+			"name" : "06_Input_Output_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -26,7 +26,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "05_Arguments_SOURCE_DIR",
+			"name" : "06_Input_Output_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -35,7 +35,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/github/C-Developer-s-Guide/05-Arguments"
+			"value" : "E:/github/C-Developer-s-Guide/06-Input_Output"
 		},
 		{
 			"name" : "CMAKE_ADDR2LINE",
@@ -51,7 +51,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Program Files/JetBrains/CLion 2022.1/bin/mingw/bin/addr2line.exe"
+			"value" : "D:/Program Files/JetBrains/CLion 2022.1.1/bin/mingw/bin/addr2line.exe"
 		},
 		{
 			"name" : "CMAKE_AR",
@@ -67,7 +67,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Program Files/JetBrains/CLion 2022.1/bin/mingw/bin/ar.exe"
+			"value" : "D:/Program Files/JetBrains/CLion 2022.1.1/bin/mingw/bin/ar.exe"
 		},
 		{
 			"name" : "CMAKE_BUILD_TYPE",
@@ -91,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "e:/github/C-Developer-s-Guide/05-Arguments/cmake-build-debug"
+			"value" : "e:/github/C-Developer-s-Guide/06-Input_Output/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -139,7 +139,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Program Files/JetBrains/CLion 2022.1/bin/cmake/win/bin/cmake.exe"
+			"value" : "D:/Program Files/JetBrains/CLion 2022.1.1/bin/cmake/win/bin/cmake.exe"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -151,7 +151,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Program Files/JetBrains/CLion 2022.1/bin/cmake/win/bin/cpack.exe"
+			"value" : "D:/Program Files/JetBrains/CLion 2022.1.1/bin/cmake/win/bin/cpack.exe"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -163,7 +163,151 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Program Files/JetBrains/CLion 2022.1/bin/cmake/win/bin/ctest.exe"
+			"value" : "D:/Program Files/JetBrains/CLion 2022.1.1/bin/cmake/win/bin/ctest.exe"
+		},
+		{
+			"name" : "CMAKE_CXX_COMPILER",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "CXX compiler"
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "D:/Program Files/JetBrains/CLion 2022.1.1/bin/mingw/bin/g++.exe"
+		},
+		{
+			"name" : "CMAKE_CXX_COMPILER_AR",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "A wrapper around 'ar' adding the appropriate '--plugin' option for the GCC compiler"
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "D:/Program Files/JetBrains/CLion 2022.1.1/bin/mingw/bin/gcc-ar.exe"
+		},
+		{
+			"name" : "CMAKE_CXX_COMPILER_RANLIB",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "A wrapper around 'ranlib' adding the appropriate '--plugin' option for the GCC compiler"
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "D:/Program Files/JetBrains/CLion 2022.1.1/bin/mingw/bin/gcc-ranlib.exe"
+		},
+		{
+			"name" : "CMAKE_CXX_FLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the CXX compiler during all build types."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_CXX_FLAGS_DEBUG",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the CXX compiler during DEBUG builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-g"
+		},
+		{
+			"name" : "CMAKE_CXX_FLAGS_MINSIZEREL",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the CXX compiler during MINSIZEREL builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-Os -DNDEBUG"
+		},
+		{
+			"name" : "CMAKE_CXX_FLAGS_RELEASE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the CXX compiler during RELEASE builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-O3 -DNDEBUG"
+		},
+		{
+			"name" : "CMAKE_CXX_FLAGS_RELWITHDEBINFO",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the CXX compiler during RELWITHDEBINFO builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-O2 -g -DNDEBUG"
+		},
+		{
+			"name" : "CMAKE_CXX_STANDARD_LIBRARIES",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Libraries linked by default with all C++ applications."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER",
@@ -179,7 +323,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Program Files/JetBrains/CLion 2022.1/bin/mingw/bin/gcc.exe"
+			"value" : "D:/Program Files/JetBrains/CLion 2022.1.1/bin/mingw/bin/gcc.exe"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_AR",
@@ -195,7 +339,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Program Files/JetBrains/CLion 2022.1/bin/mingw/bin/gcc-ar.exe"
+			"value" : "D:/Program Files/JetBrains/CLion 2022.1.1/bin/mingw/bin/gcc-ar.exe"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_RANLIB",
@@ -211,7 +355,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Program Files/JetBrains/CLion 2022.1/bin/mingw/bin/gcc-ranlib.exe"
+			"value" : "D:/Program Files/JetBrains/CLion 2022.1.1/bin/mingw/bin/gcc-ranlib.exe"
 		},
 		{
 			"name" : "CMAKE_C_FLAGS",
@@ -323,7 +467,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Program Files/JetBrains/CLion 2022.1/bin/mingw/bin/dlltool.exe"
+			"value" : "D:/Program Files/JetBrains/CLion 2022.1.1/bin/mingw/bin/dlltool.exe"
 		},
 		{
 			"name" : "CMAKE_EXECUTABLE_FORMAT",
@@ -515,7 +659,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "E:/github/C-Developer-s-Guide/05-Arguments"
+			"value" : "E:/github/C-Developer-s-Guide/06-Input_Output"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -527,7 +671,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/05_Arguments"
+			"value" : "C:/Program Files (x86)/06_Input_Output"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -543,7 +687,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Program Files/JetBrains/CLion 2022.1/bin/mingw/bin/ld.exe"
+			"value" : "D:/Program Files/JetBrains/CLion 2022.1.1/bin/mingw/bin/ld.exe"
 		},
 		{
 			"name" : "CMAKE_MAKE_PROGRAM",
@@ -555,7 +699,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Program Files/JetBrains/CLion 2022.1/bin/ninja/win/ninja.exe"
+			"value" : "D:/Program Files/JetBrains/CLion 2022.1.1/bin/ninja/win/ninja.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -651,7 +795,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Program Files/JetBrains/CLion 2022.1/bin/mingw/bin/nm.exe"
+			"value" : "D:/Program Files/JetBrains/CLion 2022.1.1/bin/mingw/bin/nm.exe"
 		},
 		{
 			"name" : "CMAKE_NUMBER_OF_MAKEFILES",
@@ -679,7 +823,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Program Files/JetBrains/CLion 2022.1/bin/mingw/bin/objcopy.exe"
+			"value" : "D:/Program Files/JetBrains/CLion 2022.1.1/bin/mingw/bin/objcopy.exe"
 		},
 		{
 			"name" : "CMAKE_OBJDUMP",
@@ -695,7 +839,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Program Files/JetBrains/CLion 2022.1/bin/mingw/bin/objdump.exe"
+			"value" : "D:/Program Files/JetBrains/CLion 2022.1.1/bin/mingw/bin/objdump.exe"
 		},
 		{
 			"name" : "CMAKE_PLATFORM_INFO_INITIALIZED",
@@ -743,7 +887,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "05_Arguments"
+			"value" : "06_Input_Output"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -759,7 +903,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Program Files/JetBrains/CLion 2022.1/bin/mingw/bin/ranlib.exe"
+			"value" : "D:/Program Files/JetBrains/CLion 2022.1.1/bin/mingw/bin/ranlib.exe"
 		},
 		{
 			"name" : "CMAKE_RC_COMPILER",
@@ -775,7 +919,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Program Files/JetBrains/CLion 2022.1/bin/mingw/bin/windres.exe"
+			"value" : "D:/Program Files/JetBrains/CLion 2022.1.1/bin/mingw/bin/windres.exe"
 		},
 		{
 			"name" : "CMAKE_RC_COMPILER_WORKS",
@@ -883,7 +1027,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Program Files/JetBrains/CLion 2022.1/bin/mingw/bin/readelf.exe"
+			"value" : "D:/Program Files/JetBrains/CLion 2022.1.1/bin/mingw/bin/readelf.exe"
 		},
 		{
 			"name" : "CMAKE_ROOT",
@@ -895,7 +1039,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Program Files/JetBrains/CLion 2022.1/bin/cmake/win/share/cmake-3.22"
+			"value" : "D:/Program Files/JetBrains/CLion 2022.1.1/bin/cmake/win/share/cmake-3.22"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1103,7 +1247,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Program Files/JetBrains/CLion 2022.1/bin/mingw/bin/strip.exe"
+			"value" : "D:/Program Files/JetBrains/CLion 2022.1.1/bin/mingw/bin/strip.exe"
 		},
 		{
 			"name" : "CMAKE_VERBOSE_MAKEFILE",
